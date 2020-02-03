@@ -1,0 +1,1 @@
+In this script we have deployed a Linux VM with default configuration.
