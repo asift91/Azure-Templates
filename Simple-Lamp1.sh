@@ -10,7 +10,7 @@ echo "mysql-server-5.7 mysql-server/root_password_again password" $dbpass | sudo
 sudo apt-get -y install mysql-server-5.7
 
 # install the LAMP stack
-sudo apt-get -y install apache2 php7
+sudo apt-get -y install apache2 php7.2
 
 # restart Apache
 sudo service apache2 restart
