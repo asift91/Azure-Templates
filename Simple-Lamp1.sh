@@ -1,9 +1,5 @@
 #!/bin/bash
 sudo apt-get -y update
-# Enable Ubuntu Firewall and allow TCP & MySQL Ports
-sudo ufw enable
-sudo ufw allow 80
-sudo ufw allow 3306
 
 # set up a silent install of MySQL
 dbpass=Q!w2e3r4
