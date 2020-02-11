@@ -1,2 +1,2 @@
 # Azure-Templates
-To testing some azure template files
+For testing some azure template files
